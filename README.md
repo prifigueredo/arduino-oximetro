@@ -25,3 +25,4 @@ https://www.teachmemicro.com/max30100-arduino-heart-rate-sensor/
 ### Ligando os componentes
 ![alt text](https://github.com/prifigueredo/arduino-oximetro/blob/master/oximetro-circuito.png)
 
+
