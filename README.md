@@ -28,7 +28,6 @@ https://www.teachmemicro.com/max30100-arduino-heart-rate-sensor/
 
 ### Bibliotecas 
 Para esse projeto, foram utilizadas as seguintes bibliotecas:
-- Wire
 - MAX30100_PulseOximeter - https://github.com/oxullo/Arduino-MAX30100/
 - LiquidCrystal - disponível pela admistração de bibliotecas da IDE
 
