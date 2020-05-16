@@ -18,7 +18,9 @@ Nos artigos falando a respeito do funcionamento desse sensor, indicava retirar o
 
 No protótipo desenvolvido nesse projeto, os resistores foram retirados da placa. Vale resaltar que essa retirada tem o risco de danificar o sensor.
 
-Referência: https://autocorerobotica.blog.br/como-fazer-um-oximetro-com-arduino/
+Referências: 
+https://autocorerobotica.blog.br/como-fazer-um-oximetro-com-arduino/
+https://www.teachmemicro.com/max30100-arduino-heart-rate-sensor/
 
 ### Ligando os componentes
 ![alt text](https://github.com/prifigueredo/arduino-oximetro/blob/master/oximetro-circuito.png)
