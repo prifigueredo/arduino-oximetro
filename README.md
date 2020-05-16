@@ -4,7 +4,7 @@ Esse projeto tem como objetivo possibilitar a utilização do Arduíno para dese
 ## Componentes necessários para desenvolver o projeto
 
 Esse projeto foi prototipado utilizando os seguintes componentes:
-1. Arduíno Uno
+1. Arduíno Uno R3
 2. Sensor Batimento Cardíaco e Oxímetro MAX30100
 3. Resistores 10k
 4. Display LCD 20x4 *
