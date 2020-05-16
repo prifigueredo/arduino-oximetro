@@ -13,4 +13,13 @@ Esse projeto foi prototipado utilizando os seguintes componentes:
 
 ## Protótipo
 
+### Sobre o Sensor Batimento Cardíaco e Oxímetro MAX30100
+Nos artigos falando a respeito do funcionamento desse sensor, indicava retirar os resistores da placa e utilizar o resistor de 10K externo (conforme o circuito abaixo). Os artigos indicam que esse sensor tem um bug de fabricação e a retirada deles não afetará o funcionamento.
+
+No protótipo desenvolvido nesse projeto, os resistores foram retirados da placa. Vale resaltar que essa retirada tem o risco de danificar o sensor.
+
+Referência: https://autocorerobotica.blog.br/como-fazer-um-oximetro-com-arduino/
+
 ### Ligando os componentes
+![alt text](https://github.com/prifigueredo/arduino-oximetro/blob/master/oximetro-circuito.png)
+
